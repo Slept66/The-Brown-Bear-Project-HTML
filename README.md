@@ -1,4 +1,4 @@
-#The Brown Bear Project
+# The Brown Bear Project
 - This project is made for viewers or contributors to learn about the HTML project "The Brown Bear"
 - You can learn about the Brown bear and at the same time you will be able to learn the html code and see how it contributes with the project.
 - Have fun learn and enjoy.
