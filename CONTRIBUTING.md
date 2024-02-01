@@ -1,1 +1,1 @@
-This project is mostly private based, but I shared it so you gusys can fork and make it better than what I have made, I would love to see you guys make this simple code better and more complex, have fun!
+This project is mostly private based, but I shared it so you guys can fork and make it better than what I have made, I would love to see you guys make this simple code better and more complex, have fun!
