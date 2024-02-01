@@ -6,5 +6,6 @@
 * You can make any changes you want to make to this code, I don't care if you copy it, just have fun with it. :D
  ## Made with 100% HTML
  
-![image](https://github.com/Slept66/The-Brown-Bear-Project-HTML/assets/148169522/955a876d-6e94-4c81-819c-55066852b358)
+![image](https://github.com/Slept66/The-Brown-Bear-Project-HTML/assets/148169522/405cebe8-2cb4-4363-89b2-c7f4c3ae0f37)
+
 
