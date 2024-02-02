@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-You can expect an update in the Announcements and Updates.
+You can expect an update in the Contributions.
